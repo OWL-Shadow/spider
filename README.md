@@ -1,6 +1,9 @@
 # OWL Web Spider 🕷️
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OWL-Shadow/stalkeye)
 
-A powerful and stylish web spider tool for extracting links from websites with an awesome terminal interface.
+A web spider tool for extracting links from websites with a terminal interface.
 
 ## Features
 
