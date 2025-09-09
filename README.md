@@ -73,3 +73,5 @@ This project is open source. Use it responsibly.
 ---
 
 *"I often feel that night and shadow are more alive than day and light...."*
+
+Happy (and ethical) hunting!!
