@@ -18,8 +18,8 @@ A web spider tool for extracting links from websites with a terminal interface.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/nyx-web-spider.git
-cd nyx-web-spider
+git clone https://github.com/OWL-shadow/spider.git
+cd spider
 ```
 
 2. Install required dependencies:
