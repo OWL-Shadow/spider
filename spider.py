@@ -145,7 +145,6 @@ if __name__ == "__main__":
   os.system("cls" if os.name == "nt" else "clear")
   matrix()
   os.system("cls" if os.name == "nt" else "clear")
-  print_centered_art()
   intro()
   url = input("enter the url you want to spider : ")#reading the url from user
   n = int(input("Choose spidering level: 1 | 2 | 3: "))
@@ -158,3 +157,4 @@ if __name__ == "__main__":
         print(f"\n{Fore.GREEN}Results saved to: {filename}{Style.RESET_ALL}")
   else:
         print(f"\n{Fore.RED}No results to save.{Style.RESET_ALL}")
+
